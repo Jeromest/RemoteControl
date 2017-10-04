@@ -7,5 +7,6 @@
 - 0.96OLED
 - 搭载磁力计，可进行无头模式控制
 
-
+### View
+![view](https://raw.githubusercontent.com/Ncerzzk/RemoteControl/master/view.jpg)
 
