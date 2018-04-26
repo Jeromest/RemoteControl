@@ -5,7 +5,7 @@
 ### 特性
 - 双摇杆：油门+方向
 - 0.96OLED
-- 搭载磁力计，可进行无头模式控制
+
 
 ### View
 ![view](https://raw.githubusercontent.com/Ncerzzk/RemoteControl/master/view.jpg)
